@@ -5,7 +5,6 @@ public class Hilo extends Thread {
 	public Hilo(String str) {
 		super(str);
 	}
-	
 
 	public void run() {
 
@@ -17,6 +16,6 @@ public class Hilo extends Thread {
 			}
 		}
 		System.out.println("Final del hilo: " + getName());
-		
+
 	}
 }

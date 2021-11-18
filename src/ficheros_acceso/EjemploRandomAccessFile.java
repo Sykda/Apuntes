@@ -13,7 +13,6 @@ public class EjemploRandomAccessFile {
 		// Leer longitud, puntero, introducir un numero en el fichero y la posicion del
 		// fichero
 
-
 		RandomAccessFile fichero = null;
 
 		File archivo = new File("C:\\Users\\admin\\Desktop\\enteros.dat");

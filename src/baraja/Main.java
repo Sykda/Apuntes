@@ -63,7 +63,7 @@ public class Main {
 			} catch (InputMismatchException e) {
 				System.out.println("Debes insertar un número");
 				sn.next();
-			}			
+			}
 		}
 		sn.close();
 	}
