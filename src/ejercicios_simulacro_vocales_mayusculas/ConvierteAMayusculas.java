@@ -1,4 +1,4 @@
-package ejercicios_simulacro;
+package ejercicios_simulacro_vocales_mayusculas;
 
 //Crear un programa(ConvierteAMayusculas) utilizando la clase RandomAccessFile 
 //que dado por teclado un palabra, realice una búsqueda y la modifique la en el fichero original convirtiéndola en mayúscula.

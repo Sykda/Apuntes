@@ -1,4 +1,4 @@
-package ejercicios_simulacro;
+package ejercicios_simulacro_vocales_mayusculas;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
