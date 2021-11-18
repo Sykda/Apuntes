@@ -7,7 +7,6 @@ import java.io.IOException;
 
 public class BufferedReaderEjemplo {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 
 		try {
