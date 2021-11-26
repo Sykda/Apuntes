@@ -2,6 +2,7 @@ package ejercicio_thread_ddr_3;
 
 import java.util.Observable;
 
+@SuppressWarnings("deprecation")
 public class RelojDigital extends Observable implements Runnable {
 
 	private int horas, minutos, segundos;

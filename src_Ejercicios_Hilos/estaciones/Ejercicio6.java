@@ -8,7 +8,6 @@ public class Ejercicio6 extends Thread {
 	String estacion;
 
 	public void run() {
-		String n = " ";
 		for (int i = 0; i < estaciones.length; i++) {
 			try {
 				Thread.sleep(1000);
